@@ -1,0 +1,15 @@
+These are the commands that i have learnt so far about git. 
+
+git init 
+git status
+git log 
+git log --oneline
+git log -p 
+git status <SHA>
+git add 
+git add remote <name> <url> 
+git commit 
+git push <remote> 
+git config --global user.name=rsunder77 user.email=rsunder77@gmail.com    
+git config --global core.editor "code --wait"
+git config --global -e 
