@@ -1,5 +1,8 @@
 These are the commands that i have learnt so far about git. 
+Using Git Desktop, Git Bash and VS Code for Windows 10. Its super cool. 
 
+commands:
+--------
 git init 
 git status
 git log 
